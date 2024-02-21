@@ -1,0 +1,15 @@
+D:\Загрузки\Обучение\programming\seminar3\task4\bin\Debug\net8.0\task4.exe
+D:\Загрузки\Обучение\programming\seminar3\task4\bin\Debug\net8.0\task4.deps.json
+D:\Загрузки\Обучение\programming\seminar3\task4\bin\Debug\net8.0\task4.runtimeconfig.json
+D:\Загрузки\Обучение\programming\seminar3\task4\bin\Debug\net8.0\task4.dll
+D:\Загрузки\Обучение\programming\seminar3\task4\bin\Debug\net8.0\task4.pdb
+D:\Загрузки\Обучение\programming\seminar3\task4\obj\Debug\net8.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Загрузки\Обучение\programming\seminar3\task4\obj\Debug\net8.0\task4.AssemblyInfoInputs.cache
+D:\Загрузки\Обучение\programming\seminar3\task4\obj\Debug\net8.0\task4.AssemblyInfo.cs
+D:\Загрузки\Обучение\programming\seminar3\task4\obj\Debug\net8.0\task4.csproj.CoreCompileInputs.cache
+D:\Загрузки\Обучение\programming\seminar3\task4\obj\Debug\net8.0\task4.sourcelink.json
+D:\Загрузки\Обучение\programming\seminar3\task4\obj\Debug\net8.0\task4.dll
+D:\Загрузки\Обучение\programming\seminar3\task4\obj\Debug\net8.0\refint\task4.dll
+D:\Загрузки\Обучение\programming\seminar3\task4\obj\Debug\net8.0\task4.pdb
+D:\Загрузки\Обучение\programming\seminar3\task4\obj\Debug\net8.0\task4.genruntimeconfig.cache
+D:\Загрузки\Обучение\programming\seminar3\task4\obj\Debug\net8.0\ref\task4.dll
